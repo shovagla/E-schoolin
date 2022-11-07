@@ -1,0 +1,49 @@
+.pic{
+    height: 70px;
+    width:200px;
+}
+#buton{
+    color:white;
+    border:none;
+
+}
+.background{
+    background-color: rgb(232, 245, 232);
+}
+.red{
+    color:red;
+}
+.green{
+    color:green;
+    font-weight: 700;
+}
+.back{
+    font-weight: 700;
+}
+.book{
+    height: 75px;
+    width: 75px;
+    margin-top: auto;
+    margin-left:50px;
+}
+.bb{
+    height: 70px;
+    width:70px;
+    margin-left: 35%;
+    margin-top: 10%;
+}
+.card-text,.card-title{
+    text-align: center;
+}
+.mar{
+    margin-top:15px;
+    
+}
+.bbc{
+    margin:0px 20px;
+    border:20px solid rgb(253, 247, 247);
+}
+.bbtn{
+    border-radius: 30px;
+    background-color: white;
+}
